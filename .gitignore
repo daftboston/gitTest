@@ -1,0 +1,6 @@
+# comentario
+#ignorara todos los .txt files
+*.txt 
+Employee Salaries.txt
+
+
